@@ -1,0 +1,4 @@
+D:\Users\User\Documents\תכנות שנה ב\דוטנט\clibndl\clibndl\obj\Release\net8.0\win-x64\clibndl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Documents\תכנות שנה ב\דוטנט\clibndl\clibndl\obj\Release\net8.0\win-x64\clibndl.AssemblyInfoInputs.cache
+D:\Users\User\Documents\תכנות שנה ב\דוטנט\clibndl\clibndl\obj\Release\net8.0\win-x64\clibndl.AssemblyInfo.cs
+D:\Users\User\Documents\תכנות שנה ב\דוטנט\clibndl\clibndl\obj\Release\net8.0\win-x64\clibndl.csproj.CoreCompileInputs.cache
